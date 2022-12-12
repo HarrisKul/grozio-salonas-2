@@ -1,0 +1,35 @@
+.btn {
+  border-radius: 0;
+}
+
+.btn-primary {
+  background-color: #d70b7d;
+  border-color: #d70b7d;
+}
+
+.btn-primary:hover {
+  background-color: #ff5f91 !Important;
+  border-color: #ff5f91 !Important;
+}
+
+.btn-outline-light {
+  border-color: #ff5f91;
+}
+
+.form-control {
+  border-radius: 0;
+}
+
+.mw-50 {
+  max-width: 50%;
+}
+
+.fs-7 {
+  font-size: .8rem;
+}
+
+.page-heading {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
